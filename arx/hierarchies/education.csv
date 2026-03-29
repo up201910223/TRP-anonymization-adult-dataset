@@ -1,0 +1,17 @@
+education,level1,level2
+1st-4th,Basic,*
+5th-6th,Basic,*
+7th-8th,Basic,*
+9th,Basic,*
+10th,Basic,*
+11th,Basic,*
+12th,Basic,*
+HS-grad,Secondary,*
+Some-college,Secondary,*
+Assoc-acdm,Higher,*
+Assoc-voc,Higher,*
+Bachelors,Higher,*
+Masters,Higher,*
+Doctorate,Higher,*
+Prof-school,Higher,*
+Preschool,Basic,*
