@@ -1,0 +1,27 @@
+Loading dataset from: /home/fernando/Desktop/MERSI/2nd Year/2nd S/TRP/TRP-anonymization-adult-dataset/data/processed/adult_clean.csv
+
+--- Income (>50K) Baseline Statistics ---
+
+By Sex (% >50K):
+sex
+Female    10.95
+Male      30.57
+Name: high_income, dtype: float64
+
+By Race (% >50K):
+race
+Amer-Indian-Eskimo    11.58
+Asian-Pac-Islander    26.56
+Black                 12.39
+Other                  9.23
+White                 25.59
+Name: high_income, dtype: float64
+
+By Education (Top 5 categories) (% >50K):
+education
+Assoc-voc       26.12
+Bachelors       41.48
+HS-grad         15.95
+Masters         55.66
+Some-college    19.02
+Name: high_income, dtype: float64
