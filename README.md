@@ -101,8 +101,34 @@ Incluem:
 - agregação de níveis de educação.
 
 ---
+## 8. Reprodutibilidade
 
-## 8. Estrutura do repositório (IDEIA INICIAL)
+Para reproduzir os resultados:
+
+1. Abrir o ARX;
+2. Carregar o ficheiro: **arx/projects/adult_project.deid** 
+3. Executar a anonimização.
+
+---
+
+## 9. Estado atual
+
+- ✔ Dataset limpo e preparado  
+- ✔ Classificação de atributos  
+- ✔ Hierarquias definidas  
+- ✔ Modelos de privacidade configurados  
+- ✔ Primeira anonimização realizada  
+
+---
+
+## 10. Próximos passos
+
+- análise de utilidade dos dados anonimizado;
+- comparação entre diferentes valores de k;
+- avaliação do risco de reidentificação;
+- elaboração do relatório final.
+
+## 11. Estrutura do repositório (IDEIA INICIAL)
 
 ```text
 .
@@ -121,31 +147,3 @@ Incluem:
 │   ├── scripts/
 │   └── results/
 └── presentation/
-
----
-## 9. Reprodutibilidade
-
-Para reproduzir os resultados:
-
-1. Abrir o ARX;
-2. Carregar o ficheiro: **arx/projects/adult_project.deid** 
-3. Executar a anonimização.
-
----
-
-## 10. Estado atual
-
-- ✔ Dataset limpo e preparado  
-- ✔ Classificação de atributos  
-- ✔ Hierarquias definidas  
-- ✔ Modelos de privacidade configurados  
-- ✔ Primeira anonimização realizada  
-
----
-
-## 11. Próximos passos
-
-- análise de utilidade dos dados anonimizado;
-- comparação entre diferentes valores de k;
-- avaliação do risco de reidentificação;
-- elaboração do relatório final.
