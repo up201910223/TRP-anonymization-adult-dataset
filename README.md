@@ -122,7 +122,7 @@ Incluem:
 │   └── results/
 └── presentation/
 
-
+---
 ## 9. Reprodutibilidade
 
 Para reproduzir os resultados:
