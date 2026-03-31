@@ -1,10 +1,9 @@
---- Income (>50K) Anonymized Statistics ---
-
+--- Income (>50K) Anonymized Statistics K=10 L=2 ---
 By Sex (% >50K):
 sex
-*          1.88
-Female    11.85
-Male      31.24
+*          3.44
+Female    11.84
+Male      31.28
 Name: high_income, dtype: float64
 
 By Race (% >50K):
@@ -18,20 +17,20 @@ Name: high_income, dtype: float64
 
 By Education (% >50K):
 education
-*             1.88
-Basic         6.07
-Higher       43.28
+*             3.44
+Basic         5.96
+Higher       43.34
 Secondary    18.20
 Name: high_income, dtype: float64
 
 By Age Group (% >50K):
-*: 1.88% (n=1440)
+*: 3.44% (n=1570)
 10-20: 0.27% (n=753)
-20-30: 6.54% (n=7765)
-30-40: 26.91% (n=8567)
-40-50: 37.38% (n=7111)
-50-60: 38.82% (n=4392)
-60-70: 26.83% (n=1979)
+20-30: 6.53% (n=7750)
+30-40: 26.90% (n=8561)
+40-50: 37.40% (n=7093)
+50-60: 39.13% (n=4332)
+60-70: 26.94% (n=1956)
 70-80: 19.05% (n=483)
 80-90: 15.69% (n=51)
-90-100: 25.00% (n=20)
+90-100: 8.33% (n=12)
