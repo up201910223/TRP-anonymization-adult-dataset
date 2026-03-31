@@ -1,0 +1,37 @@
+--- Income (>50K) Anonymized Statistics ---
+
+By Sex (% >50K):
+sex
+*          1.88
+Female    11.85
+Male      31.24
+Name: high_income, dtype: float64
+
+By Race (% >50K):
+race
+Amer-Indian-Eskimo    11.58
+Asian-Pac-Islander    26.56
+Black                 12.39
+Other                  9.23
+White                 25.59
+Name: high_income, dtype: float64
+
+By Education (% >50K):
+education
+*             1.88
+Basic         6.07
+Higher       43.28
+Secondary    18.20
+Name: high_income, dtype: float64
+
+By Age Group (% >50K):
+*: 1.88% (n=1440)
+10-20: 0.27% (n=753)
+20-30: 6.54% (n=7765)
+30-40: 26.91% (n=8567)
+40-50: 37.38% (n=7111)
+50-60: 38.82% (n=4392)
+60-70: 26.83% (n=1979)
+70-80: 19.05% (n=483)
+80-90: 15.69% (n=51)
+90-100: 25.00% (n=20)
