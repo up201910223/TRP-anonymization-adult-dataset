@@ -72,4 +72,4 @@ def generate_anonymized_stats(file_path):
 
 
 if __name__ == "__main__":
-    generate_anonymized_stats("../data/anonymized/2nd run/adult_k5_l2.csv")
+    generate_anonymized_stats("../data/anonymized/others/adult_k10_l2_different_weights.csv")

@@ -1,0 +1,39 @@
+--- Income (>50K) Anonymized Statistics K=10 L=2 + different suppression limit ---
+By Sex (% >50K):
+sex
+*         11.15
+Female    11.08
+Male      30.68
+Name: high_income, dtype: float64
+
+By Race (% >50K):
+race
+Amer-Indian-Eskimo    11.58
+Asian-Pac-Islander    26.56
+Black                 12.39
+Other                  9.23
+White                 25.59
+Name: high_income, dtype: float64
+
+By Education (% >50K):
+education
+*               11.15
+10th             6.70
+11th             5.00
+12th             7.77
+1st-4th          5.26
+5th-6th          5.15
+7th-8th          6.43
+9th              4.95
+Assoc-acdm      24.98
+Assoc-voc       26.41
+Bachelors       41.52
+Doctorate       74.50
+HS-grad         15.97
+Masters         55.84
+Prof-school     74.15
+Some-college    19.05
+Name: high_income, dtype: float64
+
+By Age Group (% >50K):
+*: 24.08% (n=32561)
